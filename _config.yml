@@ -12,7 +12,7 @@ title                    : "Samyo's Home page "
 title_separator          : "-"
 name                     : &name "Samyo Acharjee"
 description              : &description "Machine Learning Researcher"
-url                      : https://samyo07.github.io/samya00.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://samyo00.github.io/samya00.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "samya00.github.io"
 
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "samyo.jpg"
   name             : "Samyo Acharjee"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He/Him"  
   bio              : "Computer vision Researcher"
   location         : "Dhaka, Bangladesh"
   employer         : "Daffodil International University"
