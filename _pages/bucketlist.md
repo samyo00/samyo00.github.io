@@ -43,63 +43,63 @@ author_profile: true
     <p>Progress as of May 9, 2024 </p>
 
    
-        <label>
-          <input type="checkbox" class="item-checkbox" checked disabled />
-          Provide financial support and mentorship to enable someone to gain admission into an undergraduate program that would otherwise be financially or academically out of reach for them
-        </label>
+        
+         <label> <input type="checkbox" class="item-checkbox" checked disabled />
+          Provide financial support and mentorship to enable someone to gain admission into an undergraduate program that would otherwise be financially or academically out of reach for them </label>
+        
   
-        <label>
-          <input type="checkbox" class="item-checkbox" disabled />
-          Conduct research in computational neuroscience and contribute to the development of technologies aimed at restoring vision for the visually impaired. <a href="https://www.facebook.com/watch/?v=486813910180566">Motivation</a>
-        </label>
+        
+          <label><input type="checkbox" class="item-checkbox" disabled />
+          Conduct research in computational neuroscience and contribute to the development of technologies aimed at restoring vision for the visually impaired. <a href="https://www.facebook.com/watch/?v=486813910180566">Motivation</a></label>
+        
       
-        <label>
-          <input type="checkbox" class="item-checkbox" disabled />
-          Attend a Coldplay concert in person
-        </label>
+        
+         <label> <input type="checkbox" class="item-checkbox" disabled />
+          Attend a Coldplay concert in person</label>
+        
       
-        <label>
-          <input type="checkbox" class="item-checkbox" disabled />
-          Visit 50 countries (~4% done)
-        </label>
+        
+          <label><input type="checkbox" class="item-checkbox" disabled />
+          Visit 50 countries (~4% done)</label>
+        
 
-        <label>
-          <input type="checkbox" class="item-checkbox" disabled />
-          Paragliding
-        </label>
+        
+          <label><input type="checkbox" class="item-checkbox" disabled />
+          Paragliding</label>
+        
 
-        <label>
-          <input type="checkbox" class="item-checkbox" checked disabled />
-          Live in another country
-        </label>
+        
+          <label><input type="checkbox" class="item-checkbox" checked disabled />
+          Live in another country</label>
+        
 
-        <label>
-          <input type="checkbox" class="item-checkbox" disabled />
-          Become the first author of a paper at a top-tier conference
-        </label>
+        
+          <label><input type="checkbox" class="item-checkbox" disabled />
+          Become the first author of a paper at a top-tier conference</label>
+        
 
-        <label>
-          <input type="checkbox" class="item-checkbox" disabled />
-          Read 1000 books (~2% done)
-        </label>
+        
+          <label><input type="checkbox" class="item-checkbox" disabled />
+          Read 1000 books (~2% done)</label>
+        
 
-        <label>
-          <input type="checkbox" class="item-checkbox" disabled />
-          Make one million dollars
-        </label>
+        
+          <label><input type="checkbox" class="item-checkbox" disabled />
+          Make one million dollars</label>
+        
 
-        <label>
-          <input type="checkbox" class="item-checkbox" disabled />
-          Teach a graduate-level course
-        </label>
+        
+          <label><input type="checkbox" class="item-checkbox" disabled />
+          Teach a graduate-level course</label>
+        
 
-        <label>
-          <input type="checkbox" class="item-checkbox" disabled />
-          Start a company
-        </label>
+        
+         <label> <input type="checkbox" class="item-checkbox" disabled />
+          Start a company</label>
+        
 
-        <label>
-          <input type="checkbox" class="item-checkbox" disabled />
-          Author a patent
-        </label>
+        
+         <label> <input type="checkbox" class="item-checkbox" disabled />
+          Author a patent</label>
+        
   </div>
