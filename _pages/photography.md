@@ -4,12 +4,11 @@ permalink: /photography/
 title: "Snaps by Yours Truly. Might get a raised eyebrow from the pros, but hey, passion calls!"
 author_profile: true
 ---
-
-<b><i>Nature's canvas: where the tree meets the infinite sky 🌳☁️ : </i></b>
+- <span style="color: ##000035"><b><i>Nature's canvas: where the tree meets the infinite sky 🌳☁️ : </i></b></span>
 ![sky&tree](image-3.png)
 ![again](image-4.png)
 <br>
-<b><i>Golden embrace: where the sun dances on the river's gentle flow ✨🌊 : </i></b>
+- <span style="color:  ##000035"><b><i>Golden embrace: where the sun dances on the river's gentle flow ✨🌊 :</b></i></span>
 ![river&sun](image-5.png)
 <br>
 <b><i>Whispers of the sky: where a lone tree guards a quaint bridge under cloudy skies ☁️🌳 : </i></b>
