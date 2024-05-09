@@ -20,15 +20,13 @@ main:
 
   - title: "CV"
     #url: /cv/
-    url: https://drive.google.com/file/d/1tfgM_XYZvMDgYkXjzK9bp74-wxrKaas3/view?usp=sharing
-
-       
+    url: https://drive.google.com/file/d/1tfgM_XYZvMDgYkXjzK9bp74-wxrKaas3/view?usp=sharing       
         
   - title: "Blog Posts"
     url: /year-archive/
     
   
-  - title: "BucketList"
+  - title: "Bucket List"
     url: /bucketlist/
 
   - title: "Favorites"
