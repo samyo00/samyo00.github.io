@@ -5,5 +5,12 @@ title: "My bucket list"
 author_profile: true
 ---
 
-- [x] BucketList1
-- BucketList2
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley

@@ -11,7 +11,7 @@ author_profile: true
 # Enhancing Ophthalmic Biomarker Detection: Active Learning Strategies and Eplainable AI for Radiological Interpretation
 <br>
 
-<img scr='biomarker1.png'>
+![alt text](image-1.png)
 <br>
 
 So this is my first project

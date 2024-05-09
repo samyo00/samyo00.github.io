@@ -13,9 +13,7 @@ My passion lies at the <b>intersection</b> of <b>computer science and healthcare
 
 During my undergraduate journey, I actively engaged in various <b>programming competitions</b>, where I honed my <b>problem-solving</b> skills and showcased my prowess in algorithmic thinking. Beyond competing, I also had the privilege of serving as a <b>judge and problem setter</b> in several competitions, allowing me to give back to the vibrant <b>programming community</b> that has shaped my journey.
 
-When I'm not delving into the depths of code or analyzing medical images, you'll likely find me exploring new technologies, tinkering with projects, or simply unwinding with a good book. I'm driven by a relentless curiosity and a <b>genuine desire to make a positive impact through my work</b>.
-
-Join me as I embark on this exciting journey of exploration, innovation, and discovery. Together, let's push the boundaries of what's possible and harness technology to <b>transform healthcare for the better</b>.
+I'm driven by a relentless curiosity and a <b>genuine desire</b> to make a <b>positive impact</b> through my work.
 
 I'm also an <b>avid photographer</b> with a keen eye for capturing the <b>beauty of nature</b>, adept at capturing the <b>serene landscapes and sporadic beauty of the natural world</b>. Oh, and I'm a <b>Real Madrid</b> fan too!
 
