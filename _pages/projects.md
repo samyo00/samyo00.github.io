@@ -5,4 +5,6 @@ title: "Standout Projects I'm Proud of"
 author_profile: true
 ---
 
-I will add all of my bucket lists here after fixing all the errors that I have going through . 
+title: Project number 1
+excerpt: Short description of portfolio item number 1<br/><img src='/images/500x300.png'>
+collection: projects
