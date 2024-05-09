@@ -15,7 +15,7 @@ During my undergraduate journey, I actively engaged in various <b>programming co
 
 I'm driven by a relentless curiosity and a <b>genuine desire</b> to make a <b>positive impact</b> through my work.
 
-I'm also an <b>avid photographer</b> with a keen eye for capturing the <b>beauty of nature</b>, adept at capturing the <b>serene landscapes and sporadic beauty of the natural world</b>. Oh, and I'm a <b>Real Madrid</b> fan too!
+I'm also an <b>avid photographer</b> with a keen eye for capturing the <b>beauty of nature</b>, adept at capturing the serene landscapes and <b>sporadic beauty</b> of the natural world. Oh, and I'm a <b>Real Madrid</b> fan too!
 
 # Education 
 
