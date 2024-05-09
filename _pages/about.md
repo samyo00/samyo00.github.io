@@ -21,7 +21,7 @@ I'm also an avid photographer with a keen eye for capturing the beauty of nature
 
 # Education 
 
-Daffodil International University 
-Bechelor of Science in Computer Science and Engineering
-CGPA : 3.75 / 4.00
+Daffodil International University <br>
+Bechelor of Science in Computer Science and Engineering <br>
+CGPA : 3.75 / 4.00 <br>
 February 2024
