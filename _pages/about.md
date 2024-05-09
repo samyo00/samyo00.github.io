@@ -7,17 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent Computer Science and Engineering graduate from <b>Daffodil International University</b> I am passionate about <b>Deep Learning</b> and using my expertise in this field to solve complex real-world problems. <br>
+Welcome to my corner of the web! I'm Samyo Acharjee , a recent graduate from Daffodil International University with a degree in Computer Science and Engineering. Currently, I'm immersed in the fascinating world of medical technology as a researcher at the Health and Informatics Research Lab (HIRL).
 
-Computer Science has always fascinated me with it's particality and diversity. During my undergraduate studies, I delved into various aspects of the field, particulary focusing on <b>Artificial intelligence</b>. However, my curiosity leading me to explore the captivating domains of <b> Machine Learning , Deep Leanring, and Computer Vision</b>.<br>
+My passion lies at the intersection of computer science and healthcare, particularly in the realm of medical imaging. In my role at HIRL, I delve into the intricate world of radiological interpretations, leveraging cutting-edge deep learning techniques to enhance the capabilities of radiologists. Through the power of AI, I aim to assist healthcare professionals in swiftly identifying potential indicators of diseases within medical images, thus contributing to more accurate diagnoses and improved patient outcomes.
 
-Throughout my academic journey, I actively participated in programming competitions, sharpening my problem solving skills and nurturing my passion for innovation. Engaging in research projects further fueled my desire to make a meaningful impact. I'm excited to share that I have recently started a new chapter as a Researcher at Health and Informatics Lab. Developing and implementing deep learning algorithms tailored for analyzing medical images to enhance diagnostic accuracy and medical decision-making.<br>
+During my undergraduate journey, I actively engaged in various programming competitions, where I honed my problem-solving skills and showcased my prowess in algorithmic thinking. Beyond competing, I also had the privilege of serving as a judge and problem setter in several competitions, allowing me to give back to the vibrant programming community that has shaped my journey.
 
+When I'm not delving into the depths of code or analyzing medical images, you'll likely find me exploring new technologies, tinkering with projects, or simply unwinding with a good book. I'm driven by a relentless curiosity and a genuine desire to make a positive impact through my work.
 
-Education          | Research Interests
--------------------|-------------------------
-Daffodil International University | - Computer Vision for Health Applications
-Bachelor of Science in Computer Science and Engineering | - Graph Neural Networks
-CGPA: 3.76/4.00   | - Interpretability and Explainable AI
-February 2024     | - Generative Adversarial Networks
-                  | - Autonomous Systems
+Join me as I embark on this exciting journey of exploration, innovation, and discovery. Together, let's push the boundaries of what's possible and harness technology to transform healthcare for the better.
+
+I'm also an avid photographer with a keen eye for capturing the beauty of nature, adept at capturing the serene landscapes and sporadic beauty of the natural world. Oh, and I'm a Real Madrid fan too!
+
+# Education 
+
+Daffodil International University 
+Bechelor of Science in Computer Science and Engineering
+CGPA : 3.75 / 4.00
+February 2024
