@@ -33,3 +33,6 @@ main:
 
   - title: "Favorites"
     url: /favorites/
+  
+  - title: "Photography"
+    url: /photography/
