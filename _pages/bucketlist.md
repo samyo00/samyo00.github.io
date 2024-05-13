@@ -1,16 +1,17 @@
 ---
 layout: archive
 permalink: /bucketlist/
+title : Embarking on adventures
 author_profile: true
 ---
+<b>🪣📃✔ Chasing dreams is what keeps life exciting. Here’s a glimpse into my Bucket List : </b>
 
-# Embarking on adventures and chasing dreams is what keeps life exciting. Here's a glimpse into my Bucket List, a collection of aspirations and experiences I aim to conquer and cherish
 
 ☐ Buy my parents a house
 
-✔ Mentor a financially disadvantaged individual to help them achieve their academic aspirations
-
 ☐ Develop and implement an AI algorithm for early detection of diabetic retinopathy, helping to prevent vision loss in diabetic patients.
+
+✔ Mentor a financially disadvantaged individual to help them achieve their academic aspirations
 
 ☐ Attend a Coldplay concert in person
 
@@ -18,9 +19,9 @@ author_profile: true
 
 ☐ Paragliding
 
-✔ Teach over 100+ students.
-
 ☐ Become the first author of a paper at a top-tier conference
+
+✔ Teach over 100+ students.
 
 ☐ Read 1000 books
 

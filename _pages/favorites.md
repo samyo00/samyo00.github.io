@@ -30,7 +30,7 @@ author_profile: true
 <ul>
     <li><a href="https://youtu.be/JC82Il2cjqA" target="_blank">You Can Learn Anything</a></li>
     <li><a href="https://youtu.be/WXuK6gekU1Y" target="_blank">AlphaGo - The Movie</a></li>
-    <li><a href="https://youtu.be/bAX27XRHMH8" target="_blank">There's no such thing as MIRACLE</a></li>
+    <li><a href="https://youtu.be/ch8pwy-V1E8" target="_blank">We don't have forever</a></li>
 
 </ul>
 
