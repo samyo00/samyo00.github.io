@@ -8,10 +8,7 @@ author_profile: true
 
 ABSTRACT: Ophthalmic diseases are pervasive, and Optical Coherence Tomography (OCT) scanning plays a pivotal role in their diagnosis. Traditionally, experts have relied on manual identification of diseases and biomarkers from OCT scans. Recently, contemporary medical imaging practices increasingly leverage deep learning techniques to expedite and enhance diagnostic precision in ophthalmology. Within the realm of medical imaging, acquisition of datasets with accurately labeled data presents a significant challenge, primarily due to the expertise required for meticulous annotation by trained professionals. This article introduces a novel two-stage training strategy aimed at enhancing the identification of ophthalmic biomarkers utilizing OCT scans from the OLIVES dataset, which comprised only 12% labeled data. Our approach capitalizes on a robust methodology that effectively harnesses both labeled and unlabeled data, thereby improving biomarker identification accuracy. We employed active learning to leverage the unlabeled data, enhancing the identification of each biomarker through ensembling models based on their respective performance within each setup. Additionally, to pinpoint regions of interest harboring relevant biomarkers, we utilized Gradient-weighted Class Activation Mapping (GradCAM) for interpretability, with the aim of assisting experts in the identification process.
 
-<div style="text-align: center;">
-    <img src="image-13.png" alt="Proposed Methodology" />
-    <p><i>Proposed Methodology</i></p>
-</div>
+![alt text](image-14.png)
 
 Following are the main contribution of our work:
 - We introduce a two-stage training approach utilizing active learning to effectively leverage both labeled and unlabeled 
