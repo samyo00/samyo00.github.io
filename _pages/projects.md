@@ -50,3 +50,11 @@ The following contributions are:
 - Proposed a novel contrastive learning approach using feature vectors
 - Utilized a large amount of unlabeled data
 - Unveiled different types of contrastive learning approaches
+
+# UNET for Retina Blood Vessel Segmentation
+
+I implemented UNET segmentation using PyTorch in Python, utilizing the DRIVE (Digital Retinal Images for Vessel Extraction) dataset, which included retina vessel images and their annotated binary masks. The dataset consisted of 20 images each for the training and testing sets.
+
+![alt text](image-16.png)
+
+UNET is a U-shaped encoder-decoder network architecture comprising four encoder blocks and four decoder blocks connected via a bridge. The encoder network, also known as the contracting path, reduces spatial dimensions by half and doubles the number of filters (feature channels) at each encoder block. Conversely, the decoder network increases spatial dimensions twofold and halves the number of feature channels
