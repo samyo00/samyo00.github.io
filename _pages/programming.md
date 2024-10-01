@@ -32,7 +32,7 @@ CodeChef : 80+ <br>
 <b><i> BD Girls’ Coding 22 </i></b> 
 , March 2022
 <ul>
-  <li>Acted as both programming judge and problem setter, responsible for creating 4 problem sets—3 for practice contests and 1 for the preliminary contest.</li>
+  <li>Acted as both programming judge and problem setter, responsible for creating 4 problem sets—3 for practice contests and 1 for the preliminary round.</li>
   <li>Evaluated over 50+ submitted solutions, ensuring fairness and accurate scoring during the competition.</li>
   <li>Collaborated with organizers to ensure smooth contest operations and uphold high standards for the competition.
 </li>
