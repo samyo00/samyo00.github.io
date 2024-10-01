@@ -32,9 +32,10 @@ CodeChef : 80+ <br>
 <b><i> BD Girls’ Coding 22 </i></b> 
 , March 2022
 <ul>
-  <li>Acted as both programming judge and problem setter, evaluating solutions and creating challenging problems.</li>
-  <li>Designed engaging problem sets to test contestants’ problem-solving and programming skills.</li>
-  <li>Ensured fair and smooth contest operations through collaboration with organizers.</li>
+  <li>Acted as both programming judge and problem setter, responsible for creating 4 problem sets—3 for practice contests and 1 for the preliminary contest.</li>
+  <li>Evaluated over 50+ submitted solutions, ensuring fairness and accurate scoring during the competition.</li>
+  <li>Collaborated with organizers to ensure smooth contest operations and uphold high standards for the competition.
+</li>
 
 </ul>
 
@@ -45,18 +46,17 @@ CodeChef : 80+ <br>
 <ul>
   <li>Provided guidance and support to fellow students in mastering key concepts and problem-solving techniques related
 to data structures.</li>
-  <li>Organized and led activities within the Data Structure lab, including teaching classes, to facilitate effective learning
-and understanding of course material.</li>
-  <li>Demonstrated strong leadership skills by efficiently managing lab resources, coordinating schedules for lab sessions
-and classes, and facilitating effective learning environments.</li>
+  <li>Conducted 2 special classes on Tree and Graph concepts, focusing on implementation and key problem-solving techniques. After the sessions, students' lab assessment scores improved by 20% on average.
+</li>
+  <li>Demonstrated leadership by managing lab resources, coordinating lab schedules, and maintaining a conducive learning environment for over 30 students throughout the semester.</li>
 </ul>
 
 <h3> Bangladesh Girl's Coding 2022 Advance Camp </h3>
 , May 2022
 
 <ul>
-  <li>Instructed classes on algorithms, imparting essential knowledge and problem-solving strategies to students.</li>
-  <li>Contributed to creating a competitive and intellectually stimulating environment.</li>
-  <li>Inspiring confidence and empowering students.</li>
+  <li>Taught 2 advanced classes on searching algorithms, including Binary Search, to students participating in the advanced camp.</li>
+  <li>Instructed over 40 students, helping them improve their problem-solving strategies and understanding of algorithmic concepts.</li>
+  <li>Received positive feedback from participants, with 75% of students reporting a significant improvement in their understanding of algorithms after the camp.</li>
 
 </ul>

@@ -4,57 +4,32 @@ permalink: /projects/
 title: "Standout Projects I'm Proud of 🤗"
 author_profile: true
 ---
-# ENHANCING OPHTHALMIC BIOMARKER DETECTION: ACTIVE LEARNING STRATEGIES AND EXPLAINABLE AI FOR RADIOLOGICAL INTERPRETATION
 
-ABSTRACT: Ophthalmic diseases are pervasive, and Optical Coherence Tomography (OCT) scanning plays a pivotal role in their diagnosis. Traditionally, experts have relied on manual identification of diseases and biomarkers from OCT scans. Recently, contemporary medical imaging practices increasingly leverage deep learning techniques to expedite and enhance diagnostic precision in ophthalmology. Within the realm of medical imaging, acquisition of datasets with accurately labeled data presents a significant challenge, primarily due to the expertise required for meticulous annotation by trained professionals. This article introduces a novel two-stage training strategy aimed at enhancing the identification of ophthalmic biomarkers utilizing OCT scans from the OLIVES dataset, which comprised only 12% labeled data. Our approach capitalizes on a robust methodology that effectively harnesses both labeled and unlabeled data, thereby improving biomarker identification accuracy. We employed active learning to leverage the unlabeled data, enhancing the identification of each biomarker through ensembling models based on their respective performance within each setup. Additionally, to pinpoint regions of interest harboring relevant biomarkers, we utilized Gradient-weighted Class Activation Mapping (GradCAM) for interpretability, with the aim of assisting experts in the identification process.
+<b>1. MRI Analysis Using Graph Neural Networks</b><br>
+<b>Description:</b> I am creating a pipeline utilizing Graph Neural Networks (GNNs) to analyze MRI images and classify disease tolerance based on regions of interest. The focus is on improving classification accuracy and model interpretability.<br>
+<b>Technologies:</b> PyTorch, DGL, GNN, MRI datasets<br>
+<b>Outcome:</b> Enhanced model interpretability and accuracy for clinical use.<br>
 
-![alt text](image-14.png)
 
-Following are the main contribution of our work:
-- We introduce a two-stage training approach utilizing active learning to effectively leverage both labeled and unlabeled 
-data.
-- We assembled each model with the best outcome for each particular biomarker for an effective result handling each 
-biomarker individually for increasing overall precision.
-- Demonstrating how the application of active learning strategies, coupled with an efficient filtering system, to optimize 
-the biomarker discovery process within a multi-label classification context.
-- The integration of GradCAM provides a valuable contribution by offering insights into the model's decision-making 
-process. This enhances the interpretability of the biomarker identification results, fostering a better understanding of 
-the underlying biological significance.
+<b>2. Contrastive Learning Approaches for Ophthalmic Biomarker Identification: Unveiling Insights into Eye Health</b><br>
+<b>Description:</b> In this project, I explored contrastive learning techniques to enhance ophthalmic biomarker identification. Using the EfficientViT_m5.r224_inlk model as the foundational framework, I improved baseline accuracy from 69% to 73% by integrating contrastive learning. The study introduced a novel approach for using contrastive learning on multi-label classes of labeled and unlabeled data, contributing to a more nuanced understanding of biomarkers related to eye health.<br>
+<b>Technologies:</b> Python, PyTorch, Vision Transformer, Contrastive Learning<br>
+<b>Outcome:</b> Successfully captured critical image features in OCT images, utilizing unlabeled data to enhance biomarker identification and improve overall model accuracy.<br>
 
-# Contrastive Learning Approaches for Ophthalmic Biomarker Identification: Unveiling Insights into Eye Health
 
-ABSTRACT: The field of ophthalmic biomarker identification plays a pivotal role in understanding and
-monitoring eye health. In this study, I leverage the EfficientViT_m5.r224_inlk model as
-our foundational framework to explore constructive learning approaches for enhancing
-biomarker identification accuracy. Initially, the model achieved a baseline accuracy of
-69%. However, through the integration of contrastive learning techniques, a significant
-improvement, achieving an accuracy of 73%.The contrastive learning is used on multilabel classes of images with different approaches.I introduce a nobel contrastive learning
-on label and unlabeled data for pre-train a model in this study.This research delves into the
-methodologies of constructive learning, shedding light on how these approaches contribute
-to the identification of key biomarkers related to eye health. The incorporation of
-contrastive learning has proven to be particularly effective, unveiling insights that go
-beyond the capabilities of traditional models. The findings underscore the importance of
-leveraging advanced learning techniques in ophthalmic biomarker identification, providing
-a more nuanced understanding of eye health. As precision in biomarker identification is
-crucial for early detection and intervention in ocular diseases, my study contributes to the
-ongoing efforts aimed at improving diagnostic capabilities in the realm of ophthalmology
-and applying contrastive learning on multi-label classes with different from traditional
-approaches.The successful application of contrastive learning not only enhances accuracy
-but also opens avenues for further exploration and refinement of ophthalmic biomarker
-identification methodologies.
+<b>3. Retinal Vessel Segmentation using UNET</b><br>
+<b>Description:</b>  Implemented UNET for segmenting retinal blood vessels from medical images, improving segmentation performance for better diagnosis of ophthalmic conditions.<br>
+<b>Technologies:</b> Python, PyTorch, UNET, Medical Image Segmentation<br>
+<b>Outcome:</b> I gained a deeper understanding of medical image segmentation techniques, which enhanced my overall skills in applying segmentation to medical imaging projects.<br>
 
-![alt text](image-15.png)
 
-The following contributions are:
+<b>4. Building a Neural Network From Scratch for Digit Recognition</b><br>
+<b>Description:</b>   In this project, I built a neural network entirely from scratch, without using any machine learning frameworks like TensorFlow or PyTorch. I implemented all the core components, including forward and backward propagation, activation functions, and gradient descent. The network was trained on a digit recognition dataset, where the goal was to classify handwritten digits.<br>
+<b>Technologies:</b> Python, Numpy (for matrix operations), Neural Networks<br>
+<b>Outcome:</b> I gained a deeper understanding of medical image segmentation techniques, which enhanced my overall skills in applying segmentation to medical imaging projects.<br>
 
-- Proposed a novel contrastive learning approach using feature vectors
-- Utilized a large amount of unlabeled data
-- Unveiled different types of contrastive learning approaches
-
-# UNET for Retina Blood Vessel Segmentation
-
-I implemented UNET segmentation using PyTorch in Python, utilizing the DRIVE (Digital Retinal Images for Vessel Extraction) dataset, which included retina vessel images and their annotated binary masks. The dataset consisted of 20 images each for the training and testing sets.
-
-![alt text](image-16.png)
-
-UNET is a U-shaped encoder-decoder network architecture comprising four encoder blocks and four decoder blocks connected via a bridge. The encoder network, also known as the contracting path, reduces spatial dimensions by half and doubles the number of filters (feature channels) at each encoder block. Conversely, the decoder network increases spatial dimensions twofold and halves the number of feature channels
+<b>5. Makemore: Character-Level Name Generation (Inspired by Andrej Karpathy's Tutorial)</b><br>
+<b>Description:</b>   This project was inspired by Andrej Karpathy's YouTube video "The spelled-out intro to language modeling: building makemore." I followed along with the tutorial, coding the implementation of a character-level autoregressive model for generating names. Through this process, I learned about sequence modeling, embeddings, neural network layers, and how to build a simple character-level generative model from scratch. The model was trained on a dataset of names and can generate new names character by character based on learned patterns.
+Technologies: Python, Neural Networks, Autoregressive Modeling<br>
+<b>Technologies:</b> Python, Numpy (for matrix operations), Neural Networks<br>
+<b>Outcome:</b> By coding along with Karpathy's tutorial, I gained practical knowledge of language modeling, deep learning fundamentals, and sequence generation. Special thanks to Andrej Karpathy for providing this hands-on learning experience through his insightful content.<br>

@@ -9,8 +9,6 @@ author_profile: true
 
 ☐ Buy my parents a house
 
-☐ Develop and implement an AI algorithm for early detection of diabetic retinopathy, helping to prevent vision loss in diabetic patients.
-
 ✔ Mentor a financially disadvantaged individual to help them achieve their academic aspirations
 
 ☐ Attend a Coldplay concert in person
