@@ -51,7 +51,8 @@ and understanding of course material.</li>
 and classes, and facilitating effective learning environments.</li>
 </ul>
 
-<h3> Bangladesh Girl's Coding 2022 Advance Camp </h3>, May 2022
+<h3> Bangladesh Girl's Coding 2022 Advance Camp </h3>
+, May 2022
 
 <ul>
   <li>Instructed classes on algorithms, imparting essential knowledge and problem-solving strategies to students.</li>

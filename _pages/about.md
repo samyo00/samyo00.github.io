@@ -7,17 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm <b>Samyo Acharjee</b>, a Computer Science and Engineering graduate from Daffodil International University. Currently, I'm a researcher at the <b>Health and Informatics Research Lab (HIRL)</b>, focusing on  intersection of machine-learning and healthcare.
 
-I specialize in <b>medical imaging</b> and radiological interpretations, using <b>deep learning</b> to assist radiologists in identifying disease indicators swiftly and accurately.
+Welcome! I’m <b>Samyo Acharjee</b>, a Computer Science graduate and researcher at the <b>Health and Informatics Research Lab (HIRL)</b>, where I focus on applying AI to healthcare. My work revolves around <b>medical imaging</b>, using </b>deep learning</b> to improve radiological accuracy and speed up disease detection. I’m passionate about developing <b>transparent, interpretable AI models</b> that clinicians can rely on for better decision-making.
 
-During my undergrad, I excelled in <b>programming competitions</b>, sharpening my <b>problem-solving</b> skills and contributing as a judge and problem setter.
+I’ve led projects on <b>ophthalmic biomarker detection</b> using self-supervised learning and am currently exploring <b>Graph Neural Networks</b> for MRI analysis. My experience also spans <b>Vision Transformers</b> and <b>contrastive learning</b> to refine diagnostics, along with retinal vessel segmentation using <b>UNET.</b>
 
-Driven by curiosity and a desire to impact healthcare positively, I also enjoy <b>photography</b>, capturing nature's beauty, and I'm a proud <b>Real Madrid</b> fan.
+During my undergrad, I excelled in programming competitions, sharpening my problem-solving skills as a <b>judge and problem setter</b>.
+
+In my free time, I’m a huge <b>Real Madrid</b> fan and love <b>photography</b>—it’s my creative escape.
+
+
 
 # Education 
 
 Daffodil International University <br>
 Bechelor of Science in Computer Science and Engineering <br>
-CGPA : 3.75 / 4.00 <br>
+CGPA : 3.76 / 4.00 <br>
 February 2024
