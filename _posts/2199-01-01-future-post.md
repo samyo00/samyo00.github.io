@@ -31,7 +31,7 @@ At the heart of DIM lies **Mutual Information (MI)**. Imagine MI as a measure of
 
 By maximizing MI, DIM encourages the model to discover these connections, even without the guidance of labeled data, as shown below.
 
-![Step 1: Big Idea](../_pages/step1.PNG)
+![Step 1](../_pages/step1.PNG)
 
 ---
 
@@ -44,7 +44,7 @@ DIM adopts a dual perspective by focusing on both **local** and **global** featu
 
 This combination lets DIM understand how each small part contributes to the larger image context.
 
-![Step 2: Local and Global Features](../_pages/step2.png)
+![Step 2](../_pages/step2.png)
 
 ---
 
@@ -55,7 +55,7 @@ DIM employs several loss functions to help the model measure and improve its per
 - The InfoNCE loss encourages accurate alignment of local and global features, somewhat like aligning the pieces of a puzzle.
 - Alongside InfoNCE, DIM also uses additional loss functions (like JSD and DV), but InfoNCE has proven most effective, providing the model with a strong basis for pattern recognition.
 
-![Step 3: Training with Loss Functions](../_pages/step3.png)
+![Step 3](../_pages/step3.png)
 
 Through these losses, DIM maximizes MI, ultimately helping the model identify intricate structures within images.
 
@@ -71,7 +71,7 @@ DIM offers three primary configurations for processing local and global informat
 
 While DIM(L) paired with InfoNCE loss generally offers the best performance, DIM(L+G) sometimes achieves balanced results by combining detail with a global perspective.
 
-![Step 4: DIM Configurations](../_pages/step4.png)
+![Step 4](../_pages/step4.png)
 
 ---
 
@@ -87,7 +87,7 @@ To further improve DIM’s performance, researchers introduced additional techni
 
 These added techniques equip DIM with a spatial understanding, enabling it to maintain object positions and relative distances within the image.
 
-![Step 5: Learning Tricks](../_pages/step5.png)
+![Step 5](../_pages/step5.png)
 
 ---
 
