@@ -24,7 +24,7 @@ To understand DIM, let’s start with its core concept: **Mutual Information (MI
 2. If one patch of the image knows what another patch looks like, they have **high MI**.
 3. DIM’s goal is to increase the MI between different parts of the image to learn meaningful connections across the image as a whole.
 
-![big&idea](step1.PNG)
+![Step 1](../_pages/step1.png)
 
 In simple terms, the more two parts of an image are connected in what they show, the higher the MI. By maximizing MI, DIM encourages the model to recognize related features, even without any labels.
 
@@ -36,7 +36,7 @@ DIM has a clever approach to learning images:
 - **Local Features**: Small details or features within different parts of the image (like the texture on a tree or the shape of an eye).
 - **Global Features**: The bigger picture or summary of the whole image (for example, understanding the entire tree or the whole face).
 
-![step&two](step2.png)
+![Step 2](../_pages/step2.png)
 
 DIM encourages the model to maximize MI between these local and global features. This setup helps the model understand how each small part of an image contributes to the larger scene.
 
@@ -47,7 +47,7 @@ In machine learning, a loss function tells the model how well it’s performing 
 - **InfoNCE Loss**: Encourages the model to correctly match local and global features. InfoNCE ensures that parts of the image fit together, almost like solving a puzzle.
 - **Other Loss Functions** (e.g., JSD and DV): These also contribute to training, but InfoNCE has shown to work best for DIM, providing the model with a strong ability to recognize patterns.
 
-![step&three](step3.png)
+![Step 3](../_pages/step3.png)
 
 By maximizing MI with these losses, DIM learns to identify patterns and structures in images without needing labeled data.
 
@@ -59,7 +59,7 @@ DIM provides several ways to combine local and global information:
 - **Local-only DIM (DIM(L))**: Focuses on local features. This method is quite powerful because it captures important details and often outperforms other unsupervised methods.
 - **Local and Global Combined (DIM(L+G))**: Combines both, which can sometimes yield the best results by balancing detail with a broader understanding of the image.
 
-![step&four](step4.png)
+![Step 4](../_pages/step4.png)
 
 Typically, **DIM(L)** with **InfoNCE loss** (just using local features) performs best, capturing fine details without needing a global summary.
 
@@ -72,7 +72,7 @@ To make DIM learn even better, the authors added some extra tricks:
 
 - **Coordinate Prediction**: DIM also learns the position of local features within an image. By predicting where each part belongs, DIM improves its spatial understanding. For example, it might learn that a feature resembling an eye is usually near the top of a face.
 
-![step&five](step5.png)
+![Step 5](../_pages/step5.png)
 
 These two tricks help DIM understand objects and scenes in a way that’s spatially aware, meaning it understands where features are relative to each other.
 
