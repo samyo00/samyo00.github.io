@@ -24,7 +24,7 @@ To understand DIM, let’s start with its core concept: **Mutual Information (MI
 2. If one patch of the image knows what another patch looks like, they have **high MI**.
 3. DIM’s goal is to increase the MI between different parts of the image to learn meaningful connections across the image as a whole.
 
-![Step 1](../_pages/step1.png)
+![Step 1](../_pages/step1.PNG)
 
 In simple terms, the more two parts of an image are connected in what they show, the higher the MI. By maximizing MI, DIM encourages the model to recognize related features, even without any labels.
 
