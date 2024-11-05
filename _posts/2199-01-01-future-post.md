@@ -38,7 +38,7 @@ DIM has a clever approach to learning images:
 - **Local Features**: Small details or features within different parts of the image (like the texture on a tree or the shape of an eye).
 - **Global Features**: The bigger picture or summary of the whole image (for example, understanding the entire tree or the whole face).
 
-![step2](image-1.png)
+![Step 2: Local and Global Features](/_pages/step2.png)
 <br>
 DIM encourages the model to maximize MI between these local and global features. This setup helps the model understand how each small part of an image contributes to the larger scene.
 
