@@ -26,8 +26,8 @@ To understand DIM, let’s start with its core concept: **Mutual Information (MI
 2. If one patch of the image knows what another patch looks like, they have **high MI**.
 3. DIM’s goal is to increase the MI between different parts of the image to learn meaningful connections across the image as a whole.
 
-![step1](image.png)
-
+![step1](image.png) 
+<br>
 In simple terms, the more two parts of an image are connected in what they show, the higher the MI. By maximizing MI, DIM encourages the model to recognize related features, even without any labels.
 
 
@@ -39,7 +39,7 @@ DIM has a clever approach to learning images:
 - **Global Features**: The bigger picture or summary of the whole image (for example, understanding the entire tree or the whole face).
 
 ![step2](image-1.png)
-
+<br>
 DIM encourages the model to maximize MI between these local and global features. This setup helps the model understand how each small part of an image contributes to the larger scene.
 
 ### Step 3: Training the Model with Loss Functions
@@ -50,7 +50,7 @@ In machine learning, a loss function tells the model how well it’s performing 
 - **Other Loss Functions** (e.g., JSD and DV): These also contribute to training, but InfoNCE has shown to work best for DIM, providing the model with a strong ability to recognize patterns.
 
 ![step3](image-2.png)
-
+<br>
 By maximizing MI with these losses, DIM learns to identify patterns and structures in images without needing labeled data.
 
 ### Step 4: Choosing the Best DIM Configuration
@@ -62,7 +62,7 @@ DIM provides several ways to combine local and global information:
 - **Local and Global Combined (DIM(L+G))**: Combines both, which can sometimes yield the best results by balancing detail with a broader understanding of the image.
 
 ![step4](image-3.png)
-
+<br>
 Typically, **DIM(L)** with **InfoNCE loss** (just using local features) performs best, capturing fine details without needing a global summary.
 
 
@@ -75,7 +75,7 @@ To make DIM learn even better, the authors added some extra tricks:
 - **Coordinate Prediction**: DIM also learns the position of local features within an image. By predicting where each part belongs, DIM improves its spatial understanding. For example, it might learn that a feature resembling an eye is usually near the top of a face.
 
 ![step5](image-4.png)
-
+<br>
 These two tricks help DIM understand objects and scenes in a way that’s spatially aware, meaning it understands where features are relative to each other.
 
 ### Step 6: Comparing DIM with Other Methods
