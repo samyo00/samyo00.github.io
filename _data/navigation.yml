@@ -26,8 +26,8 @@ main:
     #url: /cv/
     url: https://drive.google.com/drive/folders/1GlAUCQAmAPrFr9uWdhqpbHJqvBjg7EKj?usp=sharing       
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Blog Posts"
+    url: /year-archive/
     
   
   - title: "Bucket List"
