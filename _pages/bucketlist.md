@@ -17,7 +17,7 @@ author_profile: true
 
 ☐ Paragliding
 
-☐ Become the first author of a paper at a top-tier conference
+☐ Become the first author of a paper at a top-tier journal
 
 ✔ Teach over 100+ students.
 
