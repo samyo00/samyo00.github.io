@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Welcome! I’m <b>Samya Acharja</b>, a Computer Science graduate and research assistant at the <b>Health and Informatics Research Lab (HIRL)</b>, where I focus on the intersection of <b>AI and healthcare</b>. My work revolves around <b>medical imaging</b>, using <b>deep learning</b> to improve radiological accuracy and speed up disease detection. I’m passionate about developing <b>transparent, interpretable AI models</b> that clinicians can rely on for better decision-making.
+Welcome! I’m <b>Samya Acharja</b>, a Computer Science graduate. My research focused on the intersection of <b>Imaging and deep learning</b>. My work revolves around <b>medical imaging</b>, using <b>deep learning</b> to improve radiological accuracy and speed up disease detection. I’m passionate about developing <b>transparent, interpretable AI models</b> that clinicians can rely on for better decision-making.
 
 In my free time, I’m a huge <b>Real Madrid</b> fan and love <b>photography</b>—it’s my creative escape.
 

@@ -9,10 +9,10 @@ author_profile: true
 
 <h2>🏆 ICPC </h2>
 
-[Took part](https://drive.google.com/file/d/1pAA8Yj606Wx0pV7Ix3bxTL1KBmXvc0ge/view?usp=sharing) in three ICPC events spanning from 2020 to 2023, engaging in preliminary rounds each year. Earned an [honorable mention](https://drive.google.com/file/d/1coFY_eoPtku3CQ9DaPKW7GUMwkV_z7lT/view?usp=sharing) in the 2020-2021 ICPC, which was a rewarding experience.
+Took part in three ICPC events spanning from 2020 to 2023, engaging in preliminary rounds each year. Earned an honorable mention in the 2020-2021 ICPC, which was a rewarding experience.
 
 
-<b></> [Total Problem Solved : 1200+](https://www.stopstalk.com/user/profile/roar00) </b>
+<b></> [Total Problem Solved : 1200+]</b>
 
 Codeforces : 837+ <br>
 Atcoder : 150+ <br>
