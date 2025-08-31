@@ -8,14 +8,8 @@ redirect_from:
 ---
 
 
-Welcome! I’m <b>Samya Acharja</b>, a Computer Science graduate. My research focused on the intersection of <b>Imaging and deep learning</b>. My work revolves around <b>medical imaging</b>, using <b>deep learning</b> to improve radiological accuracy and speed up disease detection. I’m passionate about developing <b>transparent, interpretable AI models</b> that clinicians can rely on for better decision-making.
+Welcome ! I am a Ph.D. student in Computer Science at Marquette University, where I also work as a Research Assistant. My research focuses on the intersection of Geospatial AI and data systems, with an emphasis on learned cardinality estimation. In simple terms, I work on teaching databases to make smarter predictions so they can answer questions more efficiently.
 
 In my free time, I’m a huge <b>Real Madrid</b> fan and love <b>photography</b>—it’s my creative escape.
 
 
-# Education 
-
-Daffodil International University <br>
-Bechelor of Science in Computer Science and Engineering <br>
-CGPA : 3.76 / 4.00 <br>
-February 2024
