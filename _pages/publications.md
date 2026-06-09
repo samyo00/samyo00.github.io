@@ -5,8 +5,31 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>1. OBoctNet: Enhancing Ophthalmic Biomarker Detection through Active Learning and Explainable AI in Radiological Analysis</b><br>
-<i>Published in Cognitive Computation (Springer, Q1, IF: 4.3), 2025</i><br>
-<a href="https://doi.org/10.1007/s12559-025-10451-z" target="_blank">DOI: 10.1007/s12559-025-10451-z</a>
+- Natural Language Interfaces for Spatial and Temporal Databases: A Comprehensive Overview of Methods, Taxonomy, and Future Directions
+  - IEEE Access
+  - Authors: Samya Acharja, Kanchan Chowdhury
+  - Publication Link: [Here](https://ieeexplore.ieee.org/abstract/document/11491867)
 
-<b>Description:</b> This paper, an extension of my undergraduate thesis, introduces a novel two-stage training strategy for enhancing ophthalmic biomarker identification in OCT scans using the OLIVES dataset, which contains only 12% labeled data. By leveraging the OBoctNet model with active learning and GradCAM for interpretability, the approach significantly improves diagnostic accuracy, achieving a 23% performance increase across 50% of biomarkers compared to prior studies.
+
+
+
+- OBoctNet: Enhancing Ophthalmic Biomarker Detection through Active Learning and Explainable AI in Radiological Analysis
+ - Cognitive Computation
+ - Auhtors: Samya Acharja, Md. Zahid Hasan, Farjana Haque Chamok, Kayes Uddin Fahim, Taslima Ferdaus Shuva, Abdullah Al-Mamun Bulbul, Risala Tasin Khan, Md. Tanvir Rahman, M. Shamim Kaiser, Mufti Mahmud & Mohammad Ali Moni
+ - Publication Link: [Here](https://link.springer.com/article/10.1007/s12559-025-10451-z)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

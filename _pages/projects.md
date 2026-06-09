@@ -5,6 +5,7 @@ title: "Standout Projects I'm Proud of 🤗"
 author_profile: true
 ---
 
+<!--
 <b>1. MRI Analysis Using Graph Neural Networks (on going)</b><br>
 
 <b>Description:</b> I am creating a pipeline utilizing Graph Neural Networks (GNNs) to analyze MRI images and classify disease tolerance based on regions of interest. The focus is on improving classification accuracy and model interpretability.<br>
@@ -45,3 +46,4 @@ author_profile: true
 Technologies: Python, Neural Networks, Autoregressive Modeling<br>
 <b>Technologies:</b> Python, Numpy (for matrix operations), Neural Networks<br>
 <b>Outcome:</b> By coding along with Karpathy's tutorial, I gained practical knowledge of language modeling, deep learning fundamentals, and sequence generation. Special thanks to Andrej Karpathy for providing this hands-on learning experience through his insightful content.<br>
+-->

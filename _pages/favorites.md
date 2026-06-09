@@ -7,7 +7,7 @@ author_profile: true
 
 <h3>🎥 Movies </h3>
 <ul>
-    <li>The Theory of Evertying</li>
+    <li>The Theory of Everything</li>
     <li>October Sky</li>
     <li>The Secret Life of Walter Mitty</li>
 </ul>
